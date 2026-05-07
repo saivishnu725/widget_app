@@ -1,0 +1,6 @@
+[submodule "widget_app_client"]
+	path = widget_app_client
+	url = git@github.com:saivishnu725/widget_app_client.git
+[submodule "widget_app_server"]
+	path = widget_app_server
+	url = git@github.com:saivishnu725/widget_app_server.git
